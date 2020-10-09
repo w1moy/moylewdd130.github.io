@@ -25,7 +25,7 @@ img {
 }
 
 h1, h2, h3, h4, h5,h6 {
-    font-family: var(--heading-font);
+    font-family: var(poppins);
     color:
 }
 
@@ -41,7 +41,7 @@ header>h1 {
 }
 
 p {
-    font-family: var(--paragraph-font);
+    font-family: var(inter);
     color: ;
     padding: 1em
 }
